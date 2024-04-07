@@ -12,7 +12,7 @@
 
 <item>
 <title>Pet Product 2</title>
-<description>"Blah blah blah ^ Next line ^ next line blah blah  blah"</description>
+<description>"Blah blah blah {dogs}^ Next line {dogs}^ next line blah blah blah"</description>
 <link>https://www.brainyquote.com/productimg.jpg</link>
 <author>https://www.brainyquote.com/productimg.jpg</author>
 <category>#dogs #dogsoftiktok #cutedog #pets #dogvideos</category>
@@ -20,7 +20,7 @@
 
 <item>
 <title>Pet Product 3</title>
-<description>"Blah blah blah ^ Next line ^ next line blah blah  blah"</description>
+<description>"Blah blah blah {dogs}^ Next line {dogs}^ next line blah blah blah"</description>
 <link>https://www.brainyquote.com/productimg.jpg</link>
 <author>https://www.brainyquote.com/productimg.jpg</author>
 <category>#dogs #dogsoftiktok #cutedog #pets #dogvideos</category>
@@ -28,7 +28,7 @@
 
 <item>
 <title>Pet Product 4</title>
-<description>"Blah blah blah ^ Next line ^ next line blah blah  blah"</description>
+<description>"Blah blah blah {dogs}^ Next line {dogs}^ next line blah blah blah"</description>
 <link>https://www.brainyquote.com/productimg.jpg</link>
 <author>https://www.brainyquote.com/productimg.jpg</author>
 <category>#dogs #dogsoftiktok #cutedog #pets #dogvideos</category>
